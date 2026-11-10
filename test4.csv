@@ -1,0 +1,13 @@
+program,input,average_time
+serial,decaytest.txt,6.47
+serial,gausstest.txt,7.41
+serial,sintest.txt,5.57
+thread4,decaytest.txt,1.7
+thread4,gausstest.txt,1.81
+thread4,sintest.txt,1.79
+process4,decaytest.txt,2.52
+process4,gausstest.txt,2.89
+process4,sintest.txt,2.23
+processthread4_4,decaytest.txt,0.86
+processthread4_4,gausstest.txt,0.92
+processthread4_4,sintest.txt,0.84
