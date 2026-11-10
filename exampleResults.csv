@@ -1,0 +1,8 @@
+program,input,average_time
+serial,exampleTestCases.txt,38.5533
+thread1,exampleTestCases.txt,38.8367
+thread4,exampleTestCases.txt,10.5433
+process1,exampleTestCases.txt,38.2033
+process4,exampleTestCases.txt,14.4667
+processthread1_1,exampleTestCases.txt,38.61
+processthread4_4,exampleTestCases.txt,5.21667
